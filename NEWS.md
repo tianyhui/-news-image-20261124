@@ -3,6 +3,24 @@
 Researched 2026-11-24 ~12:55 CST (04:55 UTC) via web news search.
 Rule: events that happened, or were first reported, on 24 November 2026 in any time zone.
 
+## Version 2 — 2026-11-24 ~14:30 CST (06:30 UTC)
+
+Second entry, same day. Changes over v1, all re-verified this afternoon:
+
+- **Markets strip under the lead** — NVDA +31% (Monday close; +33% in early trading),
+  NASDAQ +6%, S&P 500 +4% (Reuters, USA Today, Finimize daily brief 24 Nov).
+- **NEW card — COP31 climate talks collapse (Antalya, Türkiye)** — nearly 200 nations
+  failed to agree; EU delegates walked out of the closing plenary after a final deal
+  dropped any mention of fossil fuels' role in global warming, under pressure from Saudi
+  Arabia and other oil producers. First COP with no final agreement since Copenhagen 2009.
+  Sources: Reuters world news summary 24 Nov (via Devdiscourse), OpenSourceTrades.
+- **Ticker change** — NATO AWACS to Poland replaces the Kyiv drone strike: three Russian
+  Kh-101 missiles landed in Poland on Friday; NATO will deploy an early-warning aircraft
+  to Poland, a Polish deputy defence minister said Monday. Source: Reuters summary 24 Nov.
+- **Ukraine headline shortened** ("Ukraine sinks Russian warship") so it is no longer cut
+  off at the two-line limit; the Benghazi detail stays in the sub-line.
+- Lead sub-line now says "resignation" (not "exit") and "Shares jump 31%".
+
 ## Stories used in the image (6 + 3 in ticker)
 
 1. **LEAD — Nvidia reinstates Jensen Huang as CEO (US / tech & markets)**
@@ -54,5 +72,5 @@ Rule: events that happened, or were first reported, on 24 November 2026 in any t
 ## Not used
 - Israeli strikes in Gaza (3 killed incl. UNRWA worker) — verified but cut for space.
 - Virginia & Oregon sue SpaceX over Grok AI sexual imagery — verified but cut for space.
-- SoftBank $2B Intel investment; India 3rd in Asia Power Index; COP31 talks in Türkiye —
-  verified, cut for space/breadth balance.
+- SoftBank $2B Intel investment; India 3rd in Asia Power Index —
+  verified, cut for space/breadth balance. (COP31, listed here in v1, is used in v2.)
