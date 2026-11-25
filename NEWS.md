@@ -21,6 +21,46 @@ Second entry, same day. Changes over v1, all re-verified this afternoon:
   off at the two-line limit; the Benghazi detail stays in the sub-line.
 - Lead sub-line now says "resignation" (not "exit") and "Shares jump 31%".
 
+## Version 3 — 2026-11-25 ~11:40 CST (03:40 UTC)
+
+User chose "revise another version, submit before 20:00". Lesson from round 2
+(board 2026-11-25 01:05 UTC): v2 jumped to 205/9063, score 718083 (round 1 was
+3242/7302, 524122) — same image, so judging is noisy — but the winners carry
+30-42 dated stories across 7-13 regions. v3 keeps v2's masthead, Nvidia lead
+and markets strip, and replaces the 2x2 grid / COP31 card / ticker with a
+3-column x 10-row dense index: 30 more verified stories, one headline + one
+summary line each. 31 stories total. TAIEX record joins the markets strip
+(TAIEX +9.0% record, KOSPI +6.3%, NIKKEI +3.9%). All new items below were
+reported on 24 Nov 2026; weak single-social-source leads (Sanofi $41B deal,
+UN femicide report, US consumer confidence 103.3) were left out unverified.
+
+New stories in v3 (by column):
+- THE AMERICAS: Trump pardons turkeys Freedom & Feathers; Giuliani Medal of
+  Freedom; Abrego Garcia to leave US voluntarily; Fort Hood gunman Hasan seeks
+  execution stay; O'Hare radar outage delays flights; Iowa lead-azide
+  detonation cleared by court; Trump orders faster federal executions; US
+  blacklists Alibaba subsidiary + Megaspeed (Nvidia scandal); Virginia &
+  Oregon sue SpaceX over Grok sexual imagery.
+  Sources: Reuters world news summary 24 Nov (via Devdiscourse), CWEB daily
+  headlines 24 Nov, DailyFoxNews Early Edition 24 Nov.
+- EUROPE & UKRAINE: COP31 collapse (kept from v2); Kyiv claims second ship
+  strike in Gulf of Finland; Zaporizhzhia strike kills 2, wounds ~40;
+  EU 22nd sanctions (kept); NATO AWACS to Poland (kept); Moscow warns
+  Estonia of "open war"; Germany first into Ukraine's Delta battlefield
+  system; Sarkozy corruption case to trial (with Carla Bruni); UK sanctions
+  Houthis + four leaders.
+  Sources: Reuters summary 24 Nov (Devdiscourse), DailyFoxNews, The Global Eye
+  24 Nov (Kyiv Independent, UN News), Reuters 24 Nov.
+- ASIA / MIDDLE EAST / AFRICA: Russian jets in Korea air zone (kept);
+  Indonesia factory fire (kept); Bangladesh typhoid jabs (kept); Pakistani
+  astronaut Muhammad Zeeshan Ali to visit Tiangong; SoftBank $2B into Intel;
+  India 3rd in Asia Power Index; Iran: tankers hit mines in Hormuz (IRGC
+  claim); Israeli strikes kill six in Gaza (incl. Hamas security chief);
+  CAS restores Senegal's AFCON title; Zambia opposition leader Mundubile
+  charged with treason.
+  Sources: Reuters summary 24 Nov, GeoQuest briefing 24 Nov, The Global Eye
+  24 Nov, Focus Taiwan/CNA + Yonhap (markets), Reuters 24 Nov.
+
 ## Stories used in the image (6 + 3 in ticker)
 
 1. **LEAD — Nvidia reinstates Jensen Huang as CEO (US / tech & markets)**
